@@ -1,4 +1,4 @@
-🗂️ File System Development
+# 🗂️ File System Development
 
 A command-line based Python utility for basic file and directory operations within a specified root directory. 
 This tool is ideal for educational purposes, scripting automation, or personal use where quick file handling is needed without a full-fledged GUI.
